@@ -1,6 +1,8 @@
 # wc3-ts-template
  An easy to use template to get you started coding in TypeScript for Warcraft III maps.
 
+ Измененный шаблон chiperxof-проекта с исправленной, запускающейся под Warcraft 1.31 сборки от 6 июня 2019 года, и с изменениями в декларациях.
+
 Setup guide and information on the [wiki](https://github.com/triggerhappy187/wc3-ts-template/wiki).
 
 ## Features
